@@ -31,8 +31,8 @@ A Neural Model for Type Classification of Entities for Text
     <tr>
 	<td>EcBtex</td>
 	<td>0.92</td>
-	<td>**0.95**</td>
-	<td>**0.93**</td>
+	<td><b>0.95<b></td>
+	<td><b>0.93<b></td>
     </tr>
     <tr>
 	<td rowspan="4">FIGER-GOLD</td>
