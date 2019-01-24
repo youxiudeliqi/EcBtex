@@ -12,7 +12,4 @@ A Neural Model for Type Classification of Entities for Text
     </tr>
 
 --------------------- 
-作者：麦田 
-来源：CSDN 
-原文：https://blog.csdn.net/itmyhome1990/article/details/44085539 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+Table 1: Evaluation results on the datasets Wiki-5 and FIGER-GOLD.
