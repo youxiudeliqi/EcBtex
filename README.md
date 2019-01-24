@@ -10,35 +10,31 @@ A Neural Model for Type Classification of Entities for Text
 	<td>fEM</td>
     </tr>
     <tr>
-        <td>Wiki-5</td>
+        <td rowspan="4"> Wiki-5</td>
 	<td>FIGER</td>
 	<td>0.89</td>
 	<td>0.90</td>
 	<td>0.89</td>
     </tr>
     <tr>
-        <td>Wiki-5</td>
 	<td>HYENA</td>
 	<td>0.93</td>
 	<td>0.91</td>
 	<td>0.92</td>
     </tr>
     <tr>
-        <td>Wiki-5</td>
 	<td>Ref. [1] </td>
 	<td>0.86</td>
 	<td>0.89</td>
 	<td>0.87</td>
     </tr>
     <tr>
-        <td>Wiki-5</td>
 	<td>EcBtex</td>
 	<td>0.92</td>
 	<td>0.95</td>
 	<td>0.93</td>
     </tr>
     <tr>
-        <td>FIGER-GOLD</td>
 	<td>FIGER</td>
 	<td>0.71</td>
 	<td>0.74</td>
