@@ -5,9 +5,9 @@ A Neural Model for Type Classification of Entities for Text
     <tr>
         <td>Dataset</td>
 	<td>Method</td>
-	<td>*pEM*</td>
-	<td>*rEM*</td>
-	<td>*fEM*</td>
+	<td><i>pEM<i></td>
+	<td><i>rEM<i></td>
+	<td><i>fEM<i></td>
     </tr>
     <tr>
         <td rowspan="4"> Wiki-5</td>
@@ -55,9 +55,9 @@ A Neural Model for Type Classification of Entities for Text
     </tr>
     <tr>
 	<td>EcBtex</td>
-	<td>**0.78**</td>
-	<td>**0.81**</td>
-	<td>**0.79**</td>
+	<td><b>0.78<b></td>
+	<td><b>0.81<b></td>
+	<td><b>0.79<b></td>
     </tr>
 
 --------------------- 
