@@ -5,9 +5,9 @@ A Neural Model for Type Classification of Entities for Text
     <tr>
         <td>Dataset</td>
 	<td>Method</td>
-	<td>pEM</td>
-	<td>rEM</td>
-	<td>fEM</td>
+	<td>*pEM*</td>
+	<td>*rEM*</td>
+	<td>*fEM*</td>
     </tr>
     <tr>
         <td rowspan="4"> Wiki-5</td>
@@ -31,35 +31,33 @@ A Neural Model for Type Classification of Entities for Text
     <tr>
 	<td>EcBtex</td>
 	<td>0.92</td>
-	<td>0.95</td>
-	<td>0.93</td>
+	<td>**0.95**</td>
+	<td>**0.93**</td>
     </tr>
     <tr>
+	<td rowspan="4">FIGER-GOLD</td>
 	<td>FIGER</td>
 	<td>0.71</td>
 	<td>0.74</td>
 	<td>0.73</td>
     </tr>
     <tr>
-        <td>FIGER-GOLD</td>
 	<td>HYENA</td>
 	<td>0.76</td>
 	<td>0.80</td>
 	<td>0.78</td>
     </tr>
     <tr>
-        <td>FIGER-GOLD</td>
 	<td>Ref. [1]</td>
 	<td>0.68</td>
 	<td>0.72</td>
 	<td>0.70</td>
     </tr>
     <tr>
-        <td>FIGER-GOLD</td>
 	<td>EcBtex</td>
-	<td>0.78</td>
-	<td>0.81</td>
-	<td>0.79</td>
+	<td>**0.78**</td>
+	<td>**0.81**</td>
+	<td>**0.79**</td>
     </tr>
 
 --------------------- 
