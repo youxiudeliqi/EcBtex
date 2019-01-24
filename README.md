@@ -1,5 +1,5 @@
 # EcBtex
-A Neural Model for Type Classification of Entities for Text
+<p><font size="5">A Neural Model for Type Classification of Entities for Text<p>
 
 <table class="table table-bordered table-striped table-condensed">
     <tr>
